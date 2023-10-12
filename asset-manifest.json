@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshgupta024/user-table.git/static/css/main.f7cd3175.css",
+    "main.js": "/harshgupta024/user-table.git/static/js/main.f6bb6d13.js",
+    "static/js/787.6d0d8630.chunk.js": "/harshgupta024/user-table.git/static/js/787.6d0d8630.chunk.js",
+    "index.html": "/harshgupta024/user-table.git/index.html",
+    "main.f7cd3175.css.map": "/harshgupta024/user-table.git/static/css/main.f7cd3175.css.map",
+    "main.f6bb6d13.js.map": "/harshgupta024/user-table.git/static/js/main.f6bb6d13.js.map",
+    "787.6d0d8630.chunk.js.map": "/harshgupta024/user-table.git/static/js/787.6d0d8630.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7cd3175.css",
+    "static/js/main.f6bb6d13.js"
+  ]
+}
